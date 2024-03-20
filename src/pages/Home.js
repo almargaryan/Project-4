@@ -1,11 +1,9 @@
 import React from 'react';
-import Header from "../components/Header";
 import {Link} from "react-router-dom";
 
 function Home(props) {
     return (
         <div className={"home wrapper"}>
-            {/*<Header/>*/}
             <div className={"page_home"}>
                 <div className={"pic_home"}></div>
                 <div className={"text_home"}>

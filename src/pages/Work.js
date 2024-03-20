@@ -1,10 +1,8 @@
 import React from 'react';
-import Header from "../components/Header";
 
 function Work(props) {
     return (
         <div className={"work wrapper"}>
-            {/*<Header/>*/}
             <div className={"page_work"}>
                 <div className={"part_work"}>
                     <div className={"pic1_work"}><div className={"text_work"}>

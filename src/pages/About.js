@@ -1,11 +1,9 @@
 import React from 'react';
-// import Header from "../components/Header";
 import {Link} from "react-router-dom";
 
 function About(props) {
     return (
         <div className={"about wrapper"}>
-            {/*<Header/>*/}
             <div className={"page_about"}>
                 <div className={"text_about"}>
                     <span className={"title_about"}>ABOUT US</span>

@@ -1,7 +1,6 @@
 import React from 'react';
 import {BrowserRouter} from "react-router-dom";
 import Navigate from "./Navigate";
-import Links from "./components/Links";
 import Header from "./components/Header";
 
 function App(props) {
